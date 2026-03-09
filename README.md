@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Azamaperdeev05/Azamaperdeev05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azamaperdeev05&theme=green&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="100%" alt="Activity Graph" />
 </p>
 
 <h1 align="center">
