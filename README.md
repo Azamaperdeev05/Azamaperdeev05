@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Azamatperdeev05/Azamatperdeev05/main/banner.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Azamatperdeev05/Azamatperdeev05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h1 align="center">
@@ -33,10 +33,10 @@ fun_fact: "I break things to learn how to fix them 🔓"
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (Languages & Tools)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,linux,bash,git,docker,c,cpp,mysql,postgres&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,sass,nodejs,express,mongodb,postgres,mysql,linux,bash,git,github,docker,c,cpp,cs,java,kotlin,dart,flutter,go,rust,php,aws,firebase,supabase,postman,figma,kali&theme=dark&perline=9" />
 </p>
 
 <p align="center">
@@ -74,14 +74,6 @@ fun_fact: "I break things to learn how to fix them 🔓"
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azamatperdeev05&theme=green&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
