@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1c1c1e&height=200&section=header&text=Azamat%20Perdeev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%D0%90%D0%BA%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%82%D1%8B%D0%BA%20%D0%BA%D0%B0%D1%83%D0%B8%D0%BF%D1%81%D0%B8%D0%B7%D0%B4%D0%B8%D0%BA%20%D0%BC%D0%B0%D0%BC%D0%B0%D0%BD%D1%8B&descAlignY=62&descFontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Azamat%20Perdeev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%D0%90%D0%BA%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%82%D1%8B%D0%BA%20%D0%BA%D0%B0%D1%83%D0%B8%D0%BF%D1%81%D0%B8%D0%B7%D0%B4%D0%B8%D0%BA%20%D0%BC%D0%B0%D0%BC%D0%B0%D0%BD%D1%8B&descAlignY=62&descFontSize=25" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=1c1c1e&center=true&vCenter=true&random=false&width=600&lines=%D0%A1%D0%B0%D0%BB%D0%B5%D0%BC!+%D0%9A%D0%B8%D0%B1%D0%B5%D1%80-%D0%B0%D0%BB%D0%B5%D0%BC%D0%B3%D0%B5+%D0%BA%D0%BE%D1%88+%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D0%BD%D0%B8%D0%B7!;%D0%90%D0%BA%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%82%D1%8B%D0%BA+%D0%BA%D0%B0%D1%83%D0%B8%D0%BF%D1%81%D0%B8%D0%B7%D0%B4%D0%B8%D0%BA+%D0%BC%D0%B0%D0%BC%D0%B0%D0%BD%D1%8B;%D0%A2%D0%BE%D0%BB%D1%8B%D0%BA+%D1%81%D1%82%D0%B5%D0%BA+%D0%B0%D1%83%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%D1%8B;Windows+%26+macOS+(MacBook)+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=0078D4&center=true&vCenter=true&random=false&width=600&lines=%D0%A1%D0%B0%D0%BB%D0%B5%D0%BC!+%D0%9A%D0%B8%D0%B1%D0%B5%D1%80-%D0%B0%D0%BB%D0%B5%D0%BC%D0%B3%D0%B5+%D0%BA%D0%BE%D1%88+%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D0%BD%D0%B8%D0%B7!;%D0%90%D0%BA%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%82%D1%8B%D0%BA+%D0%BA%D0%B0%D1%83%D0%B8%D0%BF%D1%81%D0%B8%D0%B7%D0%B4%D0%B8%D0%BA+%D0%BC%D0%B0%D0%BC%D0%B0%D0%BD%D1%8B;%D0%A2%D0%BE%D0%BB%D1%8B%D0%BA+%D1%81%D1%82%D0%B5%D0%BA+%D0%B0%D1%83%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%D1%8B;Windows+%26+macOS+(MacBook)+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c1c1e&height=50&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&height=50&section=footer" />
 </p>
