@@ -4,7 +4,7 @@
 ### Ақпараттық қауіпсіздік • Жүйелер • Full-stack • AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Орналасуы-Қарағанды%2C%20Қазақстан-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Орналасуы" />
+  <img src="https://img.shields.io/badge/Орналасуы-Астана%2C%20Қазақстан-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Орналасуы" />
   <img src="https://img.shields.io/badge/Бағыты-Ақпараттық%20қауіпсіздік-8B5CF6?style=flat-square&logo=hackthebox&logoColor=white" alt="Бағыты" />
   <img src="https://img.shields.io/badge/Стек-Go%20%7C%20C%23%20%7C%20Python%20%7C%20TS-181717?style=flat-square" alt="Стек" />
 </p>
