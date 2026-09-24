@@ -1,225 +1,161 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OS-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Information%20Security-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Сәлем, мен Азаматпын!</h1>
+# Азамат Пердеев
+### Ақпараттық қауіпсіздік • Жүйелер • Full-stack • AI
 
 <p align="center">
-  <b>Information Security • Full-stack Development • AI • Creative Technology</b>
+  <img src="https://img.shields.io/badge/Орналасуы-Қарағанды%2C%20Қазақстан-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Орналасуы" />
+  <img src="https://img.shields.io/badge/Бағыты-Ақпараттық%20қауіпсіздік-8B5CF6?style=flat-square&logo=hackthebox&logoColor=white" alt="Бағыты" />
+  <img src="https://img.shields.io/badge/Стек-Go%20%7C%20C%23%20%7C%20Python%20%7C%20TS-181717?style=flat-square" alt="Стек" />
 </p>
 
 <p align="center">
-  Қауіпсіз, пайдалы және заманауи цифрлық өнімдер жасауға қызығамын.
+  Қауіпсіздікке, құпиялылыққа және практикалық пайдаға бағытталған бағдарламалық өнімдер жасаймын.
 </p>
 
----
-
-## 🛡️ Мен туралы
-
-```yaml
-аты_жөні: Азамат Пердеев
-ел: Қазақстан 🇰🇿
-қала: Қарағанды
-мамандығым: Ақпараттық қауіпсіздік
-университет: Қарағанды техникалық университеті 🎓
-
-негізгі_бағыттар:
-  - Information Security
-  - Full-stack Development
-  - AI-powered Applications
-  - Web Development
-  - UI/UX & Creative Technology
-
-қазіргі_қызығушылықтар:
-  - Киберқауіпсіздік
-  - Web Application Security
-  - AI агенттері және AI интеграциялары
-  - SaaS өнімдері
-  - Қазақ тіліндегі цифрлық өнімдер
-  - Контент және дизайн
-
-мақсат:
-  "Технология мен креативтілікті біріктіріп,
-   қоғамға пайдалы сапалы цифрлық өнімдер жасау."
-```
+</div>
 
 ---
 
-## 💻 Технологиялық стек
+## 👨💻 Мен туралы
 
-### Languages
+Мен — Қарағанды техникалық университетінің Ақпараттық қауіпсіздік бағыты бойынша түлегімін және бағдарламалық қамтамасыз ету әзірлеушісімін.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,c,html,css,bash&theme=dark" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-</p>
-
-### Backend & Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql,mongodb,supabase&theme=dark" />
-</p>
-
-### Tools & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,npm,vscode,linux&theme=dark" />
-</p>
-
-### AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+Негізгі қызметім киберқауіпсіздік, жүйелік бағдарламалау және заманауи веб-технологиялардың түйіскен тұсында шоғырланған. Қауіпсіздікті қосымша қабат ретінде емес, архитектураның негізгі өзегі ретінде қарастыра отырып, деректер құпиялылығы сақталатын құралдар, алдамшы қорғаныс жүйелері мен пайдалы цифрлық өнімдер құрастырамын.
 
 ---
 
-## 🚀 Қазір жұмыс істеп жатқан жобалар
+## 🛠️ Технологиялық стек
 
-### 🍽️ RESTOFLOW
+### Бағдарламалау тілдері
+* Go, C# (.NET 8), Python, TypeScript, JavaScript (ES6+), Kotlin, SQL
 
-**HoReCa бизнесіне арналған SaaS платформа**
+### Киберқауіпсіздік
+* **Honeytokens / Deception Technology** (алдамшы ресурстар мен тұзақтар)
+* **Phishing Detection** (фишингтік шабуылдарды анықтау және сараптау)
+* **BERT** (мәтіндік қауіптерді талдауға арналған нейрожелілер)
+* **Browser Fingerprinting** (браузердің сандық ізін анықтау)
+* **NTFS ACL & Windows Firewall API** (жүйелік рұқсаттар мен желілік ережелерді автоматтандыру)
+* **TOTP 2FA** (екі факторлы аутентификация)
+* **Security Audit Logging** (қауіпсіздік оқиғаларын тіркеу және қауіп деңгейін бағалау)
+* **Client-side Privacy** (деректерді сыртқы серверге жібермей, клиент жағында өңдеу)
 
-> QR Menu • POS • Analytics • Integrations • AI
+### Backend (серверлік бөлік)
+* Go net/http, FastAPI, Next.js API Routes, Node.js
+* PostgreSQL, SQLite, Redis
+* Prisma, Alembic
 
-**Stack:** React + TypeScript + Supabase + Tailwind + Gemini API
+### Frontend (клиенттік бөлік)
+* React, Next.js, Svelte, Tailwind CSS
+* Jetpack Compose (Android)
+* HTML5 Canvas
 
----
+### Инфрақұрылым
+* Docker, Docker Compose
+* Nginx
+* GitHub Actions (CI/CD)
 
-### 🕌 NurSaat
-
-**Қазақша намаз уақыттарын және діни ақпаратты ұсынатын PWA**
-
-**Stack:** React + TypeScript + Tailwind + Supabase
-
----
-
-### 📚 OiQU
-
-**Қазақ тілінде ағылшын тілін үйренуге арналған AI-powered платформа**
-
-> Қазақша түсіндіру → Ағылшын тілін үйрену → Практика → AI
-
----
-
-### 🤖 AI Exporter
-
-**Web интерфейстерін AI көмегімен талдап, экспорттауға арналған құрал**
-
-> DOM Analysis • UI Detection • Figma Export • AI-assisted Redesign
-
----
-
-## 🔐 Security Interests
-
-```text
-Web Application Security
-        ↓
-Authentication & Authorization
-        ↓
-API Security
-        ↓
-OWASP
-        ↓
-Network Security
-        ↓
-Secure Software Development
-```
-
-**Негізгі қызығушылықтарым:**
-
-* 🔐 Web Application Security
-* 🌐 Network Security
-* 🔑 Authentication & Authorization
-* 🛡️ API Security
-* 🔎 Vulnerability Analysis
-* 🧪 Ethical Hacking
-* ⚙️ Secure Development
+### AI (жасанды интеллект)
+* PyTorch, Hugging Face Transformers
+* DeepSeek, Gemini, Qwen API
 
 ---
 
-## 🎨 Creative Technology
+## 🚀 Негізгі жобалар
 
-Технологияны тек код ретінде емес, **адамға түсінікті әрі пайдалы өнім** ретінде қарастырамын.
+### [LAN Share Manager](https://github.com/Azamaperdeev05/lan-share-manager)
+Windows жүйесінде SMB желілік ортақ бумаларын баптауға, NTFS құқықтары мен брандмауэрді автоматтандыруға арналған жүйелік утилита.
+* **Технологиялар:** C# (.NET 8 LTS), WPF, Win32 / PowerShell автоматизациясы, GitHub Actions CI
+* Таза архитектура (Clean Architecture) қағидасымен бөлінген модульдер (`Core`, `Infrastructure`, `CLI`, `App`, `Tests`).
+* Windows Firewall желілік ережелерін (TCP 445 порты) және жүйелік тілге байланысты пайдаланушы құқықтарын автоматты түрде конфигурациялайды.
+* Интерактивті CLI мәзірі, бір жолдық PowerShell орнатқышы (`irm azamaperdeev05.github.io/lsm | iex`) және 3 тілді (KZ, RU, EN) интерфейсі бар.
 
-```text
-Technology
-    +
-Design
-    +
-AI
-    +
-Content
-    ↓
-Useful Digital Products
-```
-
-Маған әсіресе:
-
-* 🎨 UI/UX
-* 📸 Photography
-* 🎬 Video & Content
-* 🌐 Web Design
-* 🤖 AI
-* 🇰🇿 Қазақ тіліндегі цифрлық өнімдер
-
-бағыттары қызық.
+[GitHub репозиторийі](https://github.com/Azamaperdeev05/lan-share-manager) • [Құжаттамасы мен нұсқаулығы](https://azamaperdeev05.github.io/lan-share-manager/) • [Релиздер](https://github.com/Azamaperdeev05/lan-share-manager/releases)
 
 ---
 
-## 📊 GitHub Statistics
+### [Canary Token Generator](https://github.com/Azamaperdeev05/canary-token-generator)
+Желіге немесе файлдарға рұқсатсыз қол сұғуды ерте анықтауға арналған Honeytoken жүйесі.
+* **Технологиялар:** Go 1.25+, PostgreSQL 18, Redis 7, Docker, Nginx, Cloudflare Tunnel
+* 7 түрлі алдамшы тұзақ құрастырады: `webbug`, `slowredirect`, арнайы дайындалған PDF/DOCX файлдары, `.env`, `kubeconfig` және нақты MySQL v10 хаттамасында жауап беретін тұзақ сервис.
+* Тұзақ іске қосылған сәтте шабуылдаушының браузерлік сандық ізін жинайды: Canvas FNV-1a хэші, AudioContext, WebRTC арқылы VPN артындағы жергілікті IP-ді анықтау және экран өлшемдері.
+* Redis арқылы қайталанатын спамды сүзгіден өткізіп (15 минуттық терезе), GeoIP мәліметтерімен байытылған HMAC қолтаңбалы Webhook және Telegram хабарламаларын жедел жібереді.
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azamaperdeev05&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azamaperdeev05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats" />
-  &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamaperdeev05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages" />
-</p>
+[GitHub репозиторийі](https://github.com/Azamaperdeev05/canary-token-generator)
 
 ---
 
-## 🏆 GitHub Achievements
+### [PhishGuard](https://github.com/Azamaperdeev05/PhishGuard)
+Электрондық хаттар мен сілтемелерді сараптауға арналған жасанды интеллект негізіндегі фишингке қарсы жүйе.
+* **Технологиялар:** Python 3.10+, PyTorch, Hugging Face Transformers (BERT), PySide6 (Qt), PostgreSQL, Alembic, Gmail API
+* Хат тақырыптарының түпнұсқалығын (SPF, DKIM, DMARC), күдікті URL бағыттарын және хат мәтінін арнайы оқытылған BERT моделі арқылы талдайтын кешенді құбыр (pipeline).
+* Gmail API (OAuth2) арқылы пошта жәшігін қауіпсіз тексеру, қауіпті хаттарға автоматты түрде белгі (label) қою және оқиғалар бойынша PDF есептер жасау.
+* Деректер базасының көші-қонын басқаратын Alembic жүйесі, PySide6 графикалық интерфейсі және дербес тестілеу жиынтығы бар.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azamaperdeev05&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
+[GitHub репозиторийі](https://github.com/Azamaperdeev05/PhishGuard)
 
 ---
 
-## 📫 Байланысу
+### [Bank Statement Analyzer](https://github.com/Azamaperdeev05/bank-analizer)
+Қазақстан банктерінің PDF үзінді көшірмелерін тікелей браузерде, деректер құпиялылығын сақтай отырып талдайтын веб-құрал.
+* **Технологиялар:** Vanilla JavaScript (ES6+), PDF.js, Canvas 2D, CSS3
+* 3 200-ден астам жол таза алгоритмдік код арқылы 5 отандық банктің (Kaspi, Halyk, Forte, Jusan, BCC) көшірмелерін құрылымдайды.
+* **Құпиялылыққа негізделген архитектура:** Барлық операциялар пайдаланушының құрылғысында (браузер жадында) жүреді; құжаттар мен қаржылық деректер ешқандай сыртқы серверге жіберілмейді.
+* Транзакцияларды автоматты түрде санаттарға топтайды, шығыстар кестесін сызады және қаржылық балансты математикалық тұрғыдан салыстырады.
+
+[GitHub репозиторийі](https://github.com/Azamaperdeev05/bank-analizer) • [Тікелей сынап көру](https://bank-analizer-beta.vercel.app)
+
+---
+
+### [DentFlow KZ](https://github.com/Azamaperdeev05/dentflow-kz)
+Стоматологиялық клиниканың жұмысын цифрландыруға арналған басқару жүйесі.
+* **Технологиялар:** Next.js 14, TypeScript, Prisma ORM, NextAuth (Auth.js v5), SQLite / PostgreSQL, Vitest
+* Рөлдерге негізделген қолжетімділік (`ADMIN`, `DOCTOR`, `PATIENT`) және TOTP алгоритмімен (QR-код арқылы) екі факторлы қауіпсіздік қорғанысы.
+* Қауіпсіздік журналы (`SecurityAuditLog`) мен күдікті әрекеттерді тіркеу (`LoginRiskSignal`) кестелері арқылы IP және құрылғы белгілерін есепке алу.
+* Науқастарды қабылдауға жазу, емдеу карталары, медициналық құжаттарды жүктеу және клиникаішілік байланыс функционалы.
+
+[GitHub репозиторийі](https://github.com/Azamaperdeev05/dentflow-kz)
+
+---
+
+### [NotificationShare](https://github.com/Azamaperdeev05/NotificationShare)
+Android құрылғысындағы хабарландыруларды сыртқы арналарға бағыттайтын ашық бастапқы кодты қолданба.
+* **Технологиялар:** Kotlin 1.9, Jetpack Compose (Material 3), Android SDK 24+, Coroutines, WorkManager
+* Android `NotificationListenerService` қызметі негізінде кілт сөздер бойынша сүзгілеу, қара тізім және WorkManager арқылы қайта жіберу кезегін басқару.
+* Хабарландыруларды Telegram, Discord, Slack немесе Webhook арқылы таратады.
+* Қолданбаға кіру биометриялық сәйкестендірумен (`BiometricPrompt`) қорғалған, баптаулары шифрланған жадта (`EncryptedSharedPreferences`) сақталады және 10 тілде оқшауланған.
+
+[GitHub репозиторийі](https://github.com/Azamaperdeev05/NotificationShare)
+
+---
+
+## 🇰🇿 Қазақстанға арналған цифрлық өнімдер
+
+Отандық пайдаланушылар мен қазақ тілді ортаға арнайы жасалған ашық бастапқы кодты жобалар:
+
+* **[Сөзділ (Sozdil)](https://github.com/Azamaperdeev05/sozdil):** Қазақ тіліндегі Wordle сөз табу ойыны (4, 5, 6 әріптік режимдер, толық сөздіктер қоры, Web және Android нұсқалары) • [Веб-сайт](https://sozdil.vercel.app).
+* **[ЗаңКеңес AI (zanaikz)](https://github.com/Azamaperdeev05/zanaikz):** Қазақстан Республикасының заңнамалық базасына негізделген, көпмодельді жасанды интеллект кеңесшісі • [Веб-сайт](https://zanaikz.vercel.app).
+* **[Univer Platonus](https://github.com/Azamaperdeev05/univer.univers):** Қазақстан университеттерінің студенттеріне арналған Platonus деректерін көрсететін ыңғайлы PWA порталы • [Веб-сайт](https://univerkstu.site).
+* **[Tezteru.kz](https://github.com/Azamaperdeev05/tezteru.kz):** Қазақ әліпбиіне арналған пернетақтада жылдам жазуды дамытатын тренажер • [Веб-сайт](https://tezteru-kz.vercel.app).
+
+---
+
+## 📊 GitHub белсенділігі
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azamaperdeev05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub статистикасы" />
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamaperdeev05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Қолданылатын тілдер" />
+
+</div>
+
+---
+
+## 📫 Байланыс
 
 <p align="center">
   <a href="https://github.com/Azamaperdeev05">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Azamaperdeev05-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub профилі" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>«Технология — құрал. Идея — бағыт. Адамға пайда — нәтиже.»</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=50&section=footer" />
 </p>
