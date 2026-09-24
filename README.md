@@ -1,25 +1,29 @@
 <div align="center">
 
 # Азамат Пердеев
-### Ақпараттық қауіпсіздік • Жүйелер • Full-stack • AI
+### Ақпараттық қауіпсіздік • Web & Full-stack • Жүйелік инженерия • AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Орналасуы-Қарағанды%2C%20Қазақстан-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Орналасуы" />
-  <img src="https://img.shields.io/badge/Бағыты-Ақпараттық%20қауіпсіздік-8B5CF6?style=flat-square&logo=hackthebox&logoColor=white" alt="Бағыты" />
-  <img src="https://img.shields.io/badge/Тәсіл-Privacy--First%20%26%20Systems-181717?style=flat-square" alt="Тәсіл" />
+  <img src="https://img.shields.io/badge/Орналасуы-Қазақстан%20🇰🇿-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Орналасуы" />
+  <img src="https://img.shields.io/badge/Мамандығы-Ақпараттық%20қауіпсіздік-8B5CF6?style=flat-square&logo=hackthebox&logoColor=white" alt="Мамандығы" />
+  <img src="https://img.shields.io/badge/Стек-Go%20%7C%20C%23%20%7C%20Python%20%7C%20TS%20%7C%20React-181717?style=flat-square" alt="Стек" />
 </p>
 
 <p align="center">
-  <b>Қауіпсіздікке, құпиялылыққа және практикалық пайдаға бағытталған бағдарламалық өнімдер жасаймын.</b>
+  <b>Қауіпсіздікке, сапалы UI/UX интерфейстерге және нақты пайдаға бағытталған заманауи цифрлық өнімдер жасаймын.</b>
 </p>
 
+<!-- Жедел навигация -->
 <p align="center">
   <a href="#-мен-туралы">Мен туралы</a> •
-  <a href="#-не-жасаймын">Бағыттар</a> •
+  <a href="#-жұмыс-тәжірибесі">Тәжірибе</a> •
   <a href="#-инженерлік-карта">Инженерлік карта</a> •
+  <a href="#-не-жасаймын">Бағыттар</a> •
   <a href="#-негізгі-жобалар">Жобалар</a> •
   <a href="#-технологиялық-стек">Стек</a> •
-  <a href="#-қазақстанға-арналған-цифрлық-өнімдер">Қазақстан</a>
+  <a href="#-дизайн-және-интерфейс">Дизайн</a> •
+  <a href="#-білім">Білім</a> •
+  <a href="#-байланыс">Байланыс</a>
 </p>
 
 </div>
@@ -29,9 +33,55 @@
 <a id="-мен-туралы"></a>
 ## 👨💻 Мен туралы
 
-Мен — Қарағанды техникалық университетінің Ақпараттық қауіпсіздік бағыты бойынша түлегімін және бағдарламалық жасақтама инженерімін.
+Мен — бағдарламалық жасақтама инженерімін және Әбілқас Сағынов атындағы Қарағанды техникалық университетінің Ақпараттық қауіпсіздік бағыты бойынша түлегімін.
 
-Негізгі бағытым — киберқауіпсіздік, жүйелік утилиталар және заманауи веб-архитектураның тоғысқан жері. Қауіпсіздікті формальды қосымша ретінде емес, өнімнің іргетасы ретінде көремін: алдамшы қорғаныс тұзақтары (deception technology), құпиялылықты сақтайтын жергілікті өңдеу құралдары мен қауіпсіз жүйелік шешімдер жасаймын.
+Менің кәсіби профилім **«дизайн + код + қауіпсіздік + жасанды интеллект»** тоғысында қалыптасқан. Бір жағынан — Figma-дан бастап React, TypeScript және Tailwind CSS арқылы заманауи, бейімделгіш (responsive) әрі жоғары өнімді web-интерфейстер мен цифрлық платформалар құрастырсам, екінші жағынан — жүйелік деңгейдегі қауіпсіздік құралдарын (honeytokens, фишингке қарсы қорғаныс, client-side құпиялылық) әзірлеймін.
+
+---
+
+<a id="-жұмыс-тәжірибесі"></a>
+## 💼 Жұмыс тәжірибесі
+
+### 🏢 Samga Education
+**Web-әзірлеуші / платформа әзірлеушісі** • *03.2026 — 06.2026*
+
+* Білім беру платформасының заманауи web-интерфейсін React, TypeScript және Tailwind CSS арқылы әзірлеу және жетілдіру.
+* Кез келген экран өлшеміне бейімделген (responsive) сапалы UI компоненттерін құру.
+* REST API интеграциясы және Supabase / PostgreSQL деректер қорымен жұмыс.
+* Пайдаланушыларды тіркеу, авторизация және сессияларды қауіпсіз басқару тетіктерін енгізу.
+* Clean Code қағидаларын сақтау, өнімділік пен жүктелу жылдамдығын оңтайландыру, тестілеу және release процесіне белсенді қатысу.
+* Кросс-функционалды командамен (дизайнерлер, әзірлеушілер, өнім менеджерлері) бірлесе нәтижеге қол жеткізу.
+
+> *«Жұмыс барысында frontend және backend интеграцияларымен жұмыс істесем, жеке жобаларымда осы дағдыларды киберқауіпсіздік, AI және жүйелік бағдарламалау бағыттарында тереңдете қолданамын.»*
+
+---
+
+<a id="-инженерлік-карта"></a>
+## 🗺️ Инженерлік карта
+
+```mermaid
+flowchart LR
+    A[Азамат Пердеев]
+
+    A --> B[Ақпараттық қауіпсіздік]
+    A --> C[Web / Frontend]
+    A --> D[Full-stack]
+    A --> E[AI]
+    A --> F[Жүйелік инженерия]
+
+    B --> G[Security Tools]
+    C --> H[UI / UX & Design]
+    D --> I[Digital Products]
+    E --> J[AI Applications]
+    F --> K[Systems & Utilities]
+
+    classDef core fill:#0d1117,stroke:#8B5CF6,stroke-width:2px,color:#ffffff;
+    classDef branch fill:#161b22,stroke:#3b82f6,stroke-width:1.5px,color:#ffffff;
+    classDef leaf fill:#21262d,stroke:#30363d,stroke-width:1px,color:#c9d1d9;
+    class A core;
+    class B,C,D,E,F branch;
+    class G,H,I,J,K leaf;
+```
 
 ---
 
@@ -42,67 +92,28 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 Қауіпсіздік (Cybersecurity)</h3>
-      <p>Honeytokens (алдамшы ресурстар), фишингке қарсы интеллектуалды талдау, шабуылшының сандық ізін анықтау және қауіпсіз аутентификация.</p>
+      <p>Honeytokens (алдамшы тұзақтар), фишингке қарсы интеллектуалды қорғаныс, браузердің сандық ізін жинау және рұқсаттарды шектеу.</p>
       <p><b>Жобалар:</b> <a href="#-canary-token-generator">Canary Token Generator</a>, <a href="#-phishguard">PhishGuard</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Жүйелер (Systems & Utilities)</h3>
-      <p>Windows және Android жүйелерінің төменгі деңгейлі тетіктерін басқару, SMB желілік ортақ бумалары, NTFS ACL және желілік брандмауэрді автоматтандыру.</p>
+      <p>Windows және Android жүйелерінің төменгі деңгейлі құралдары, SMB желілік ортақ бумалары, NTFS ACL және брандмауэрді автоматтандыру.</p>
       <p><b>Жобалар:</b> <a href="#-lan-share-manager">LAN Share Manager</a>, <a href="#-notificationshare">NotificationShare</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Жасанды интеллект (AI & ML)</h3>
-      <p>Мәтіндік қауіптерді сараптайтын fine-tuned BERT трансформерлері және көпмодельді LLM API маршрутизациясы (DeepSeek, Gemini, Qwen).</p>
+      <p>Мәтіндік қауіптерді талдауға арналған fine-tuned BERT трансформерлері және көпмодельді LLM API маршрутизациясы (DeepSeek, Gemini, Qwen).</p>
       <p><b>Жобалар:</b> <a href="#-phishguard">PhishGuard</a>, <a href="#-қазақстанға-арналған-цифрлық-өнімдер">ЗаңКеңес AI</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Веб және Құпиялылық (Privacy-First Web)</h3>
-      <p>Деректерді сыртқы серверге тасымалдамай, 100% клиент жағында (in-browser) өңдейтін және жергілікті аудиторияға арналған цифрлық платформалар.</p>
+      <h3>🌐 Web және Құпиялылық (Privacy-First Web)</h3>
+      <p>Деректерді сыртқы серверге жібермей, 100% клиент жағында (in-browser) өңдейтін және нақты аудиторияға арналған платформалар.</p>
       <p><b>Жобалар:</b> <a href="#-bank-statement-analyzer">Bank Statement Analyzer</a>, <a href="#-dentflow-kz">DentFlow KZ</a></p>
     </td>
   </tr>
 </table>
-
----
-
-<a id="-инженерлік-карта"></a>
-## 🗺️ Инженерлік карта
-
-```mermaid
-flowchart TD
-    Me["<b>Азамат Пердеев</b><br/><i>Ақпараттық қауіпсіздік & Жүйелік инженерия</i>"]
-    
-    Sec["🔐 <b>Киберқауіпсіздік</b>"]
-    Sys["⚙️ <b>Жүйелік бағдарламалау</b>"]
-    Web["🌐 <b>Full-stack & Privacy</b>"]
-    AI["🤖 <b>Жасанды интеллект</b>"]
-
-    Me --> Sec
-    Me --> Sys
-    Me --> Web
-    Me --> AI
-
-    Sec --> P1["<b>Canary Token Generator</b><br/><i>Honeytoken & Deception</i>"]
-    Sec --> P2["<b>PhishGuard</b><br/><i>BERT & Email Security</i>"]
-
-    Sys --> P3["<b>LAN Share Manager</b><br/><i>C# .NET 8 • SMB & NTFS ACL</i>"]
-    Sys --> P4["<b>NotificationShare</b><br/><i>Kotlin • Android Service</i>"]
-
-    Web --> P5["<b>Bank Statement Analyzer</b><br/><i>100% Client-side Privacy</i>"]
-    Web --> P6["<b>DentFlow KZ</b><br/><i>RBAC & TOTP 2FA</i>"]
-
-    AI --> P2
-    AI --> P7["<b>ЗаңКеңес AI</b><br/><i>LLM Legal Routing</i>"]
-
-    classDef core fill:#0d1117,stroke:#8B5CF6,stroke-width:2px,color:#ffffff;
-    classDef domain fill:#161b22,stroke:#3b82f6,stroke-width:1.5px,color:#ffffff;
-    classDef proj fill:#21262d,stroke:#30363d,stroke-width:1px,color:#c9d1d9;
-    class Me core;
-    class Sec,Sys,Web,AI domain;
-    class P1,P2,P3,P4,P5,P6,P7 proj;
-```
 
 ---
 
@@ -218,20 +229,42 @@ Android құрылғысындағы жүйелік хабарландырула
 
 ---
 
+<a id="-қазақстанға-арналған-цифрлық-өнімдер"></a>
+## 🇰🇿 Қазақстанға арналған цифрлық өнімдер
+
+Отандық пайдаланушылар мен қазақ тілді ортаға арнайы жасалған жобалар:
+
+* **[Сөзділ (Sozdil)](https://github.com/Azamaperdeev05/sozdil):** Қазақ тіліндегі Wordle сөз табу ойыны (4, 5, 6 әріптік режимдер, сөздіктер қоры, Web және Android қосымшасы) • [Веб-сайт](https://sozdil.vercel.app)
+* **[ЗаңКеңес AI (zanaikz)](https://github.com/Azamaperdeev05/zanaikz):** ҚР заңнамалық базасына негізделген, көпмодельді AI кеңесшісі • [Веб-сайт](https://zanaikz.vercel.app)
+* **[Univer Platonus](https://github.com/Azamaperdeev05/univer.univers):** Қазақстан студенттеріне арналған Platonus порталының жылдам әрі ыңғайлы PWA нұсқасы • [Веб-сайт](https://univerkstu.site)
+* **[Tezteru.kz](https://github.com/Azamaperdeev05/tezteru.kz):** Қазақ әліпбиіне арналған пернетақтада жылдам жазуды дамытатын тренажер • [Веб-сайт](https://tezteru-kz.vercel.app)
+
+---
+
 <a id="-технологиялық-стек"></a>
 ## 🛠️ Технологиялық стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,python,ts,kotlin,postgres,docker&theme=dark" alt="Негізгі стек" />
+  <img src="https://skillicons.dev/icons?i=go,cs,python,ts,react,nextjs,postgres,docker&theme=dark" alt="Негізгі стек" />
 </p>
 
 <details>
-<summary><b>📋 Толық технологиялар тізімін көру</b></summary>
+<summary><b>📋 Толық технологиялық стекті көру</b></summary>
 
 <br/>
 
 ### Бағдарламалау тілдері
 * Go, C# (.NET 8), Python, TypeScript, JavaScript (ES6+), Kotlin, SQL
+
+### Web / Frontend
+* React, Next.js, TypeScript, JavaScript, Tailwind CSS, Svelte, HTML5 / CSS3
+
+### UI / UX
+* Figma, UI/UX жобалау, Responsive Design, интерактивті прототиптер құру
+
+### Web / No-code
+* Tilda, Zero Block
+* *WordPress, Webflow — жаңа жобаларға тез меңгеруге және бейімделуге дайын*
 
 ### Киберқауіпсіздік
 * **Honeytokens / Deception Technology** (алдамшы ресурстар мен тұзақтар)
@@ -243,38 +276,68 @@ Android құрылғысындағы жүйелік хабарландырула
 * **Security Audit Logging** (қауіпсіздік оқиғаларын тіркеу және қауіп деңгейін бағалау)
 * **Client-side Privacy** (деректерді сыртқы серверге жібермей, клиент жағында өңдеу)
 
-### Backend (серверлік бөлік)
+### Backend және Инфрақұрылым
 * Go net/http, FastAPI, Next.js API Routes, Node.js
-* PostgreSQL, SQLite, Redis
+* PostgreSQL, SQLite, Redis, Supabase
 * Prisma, Alembic
-
-### Frontend (клиенттік бөлік)
-* React, Next.js, Svelte, Tailwind CSS
-* Jetpack Compose (Android)
-* HTML5 Canvas
-
-### Инфрақұрылым
-* Docker, Docker Compose
-* Nginx
-* GitHub Actions (CI/CD)
+* Docker, Docker Compose, Nginx, GitHub Actions (CI/CD)
 
 ### AI (жасанды интеллект)
 * PyTorch, Hugging Face Transformers
 * DeepSeek, Gemini, Qwen API
 
+### Техникалық жүйелер
+* CCTV, IP-камераларды баптау
+
 </details>
 
 ---
 
-<a id="-қазақстанға-арналған-цифрлық-өнімдер"></a>
-## 🇰🇿 Қазақстанға арналған цифрлық өнімдер
+<a id="-дизайн-және-интерфейс"></a>
+## 🎨 Дизайн және интерфейс
 
-Отандық пайдаланушылар мен қазақ тілді ортаға арнайы жасалған жобалар:
+Мен тек функционалды код жазып қана қоймай, пайдаланушыға ыңғайлы, заманауи және визуалды таза өнім жасауға баса назар аударамын:
 
-* **[Сөзділ (Sozdil)](https://github.com/Azamaperdeev05/sozdil):** Қазақ тіліндегі Wordle сөз табу ойыны (4, 5, 6 әріптік режимдер, толық сөздіктер қоры, Web және Android қосымшасы) • [Веб-сайт](https://sozdil.vercel.app)
-* **[ЗаңКеңес AI (zanaikz)](https://github.com/Azamaperdeev05/zanaikz):** Қазақстан Республикасының заңнамалық базасына негізделген, көпмодельді AI кеңесшісі • [Веб-сайт](https://zanaikz.vercel.app)
-* **[Univer Platonus](https://github.com/Azamaperdeev05/univer.univers):** Қазақстан студенттеріне арналған Platonus порталының жылдам әрі ыңғайлы PWA нұсқасы • [Веб-сайт](https://univerkstu.site)
-* **[Tezteru.kz](https://github.com/Azamaperdeev05/tezteru.kz):** Қазақ әліпбиіне арналған пернетақтада жылдам жазуды дамытатын тренажер • [Веб-сайт](https://tezteru-kz.vercel.app)
+* **Figma & UI/UX жобалау:** Ақпараттық құрылымды құру, wireframe және интерактивті прототиптеу.
+* **Responsive Design:** Смартфон, планшет және үлкен экрандарға 100% бейімделген дизайн жүйелері.
+* **Tilda & Zero Block:** Тез арада лендингтер мен маркетингтік беттерді нөлден жинау және стильдеу.
+* **Микро-анимациялар мен өнімділік:** Қолданушы тәжірибесін (UX) жақсартатын жеңіл визуалды кері байланыс.
+
+<details>
+<summary><b>🔄 Жобамен қалай жұмыс істеймін? (8 кезең)</b></summary>
+
+1. **Тапсырманы талдау:** Негізгі талаптарды, мақсатты аудитория мен өнім міндеттерін айқындау.
+2. **Прототиптеу:** Негізгі экрандардың сұлбасы мен логикалық құрылымын сызу.
+3. **UI/UX жобалау:** Figma ортасында стильдер, типографика және дизайн жүйесін жасау.
+4. **Frontend әзірлеу:** React / Next.js / Tailwind CSS арқылы таза әрі модульді код құрастыру.
+5. **Бейімдеу:** Барлық браузерлер мен мобильді құрылғыларда мінсіз көрсетілуін қамтамасыз ету.
+6. **Интеграциялар:** REST API, деректер базасы және қауіпсіз авторизацияны жалғау.
+7. **Тестілеу:** Жүйенің жүктелу жылдамдығын, қауіпсіздігі мен тұрақтылығын тексеру.
+8. **Жариялау:** Өнімді серверге орналастыру (deployment), мониторинг және қолдау.
+</details>
+
+---
+
+<a id="-білім"></a>
+## 🎓 Білім
+
+### 🏛️ Әбілқас Сағынов атындағы Қарағанды техникалық университеті
+**B058 — Ақпараттық қауіпсіздік**  
+*Жоғары білім, бакалавриат • 2026 жылғы түлек*
+
+<details>
+<summary><b>📚 Қосымша курстар мен сертификаттар</b></summary>
+
+* **Prompt Engineering for ChatGPT** — Coursera & Vanderbilt University *(2025)*
+* **Generative AI for Everyone** — Coursera & DeepLearning.AI *(2025)*
+</details>
+
+---
+
+## 🌐 Тілдер және Жеке қасиеттер
+
+* **Тілдер:** Қазақ тілі — жетік (ана тілі) • Орыс тілі — орташа / жұмыс деңгейі • Ағылшын тілі — A2 / техникалық құжаттама.
+* **Негізгі қасиеттерім:** Жүйелі ойлау • Сыни талдау • Жауапкершілік • Бөлшектерге мұқият болу • Жаңа құралдарды тез меңгеру • Дербес және командалық жұмыс.
 
 ---
 
@@ -295,7 +358,23 @@ Android құрылғысындағы жүйелік хабарландырула
 ## 📫 Байланыс
 
 <p align="center">
+  <a href="mailto:azamaperdeev05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-azamaperdeev05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/code_improper">
+    <img src="https://img.shields.io/badge/Telegram-%40code__improper-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/77478501822">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B7_747_850_1822-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/a.perdeev">
+    <img src="https://img.shields.io/badge/Instagram-%40a.perdeev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Azamaperdeev05">
-    <img src="https://img.shields.io/badge/GitHub-Azamaperdeev05-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub профилі" />
+    <img src="https://img.shields.io/badge/GitHub-Azamaperdeev05-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
