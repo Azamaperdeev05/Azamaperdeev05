@@ -47,7 +47,7 @@ Web және интерфейс әзірлеумен қатар, Information Sec
   → *Жобалар:* [LAN Share Manager](#-lan-share-manager), [NotificationShare](#-notificationshare)
 * 🤖 **Жасанды интеллект (AI & ML):** Fine-tuned BERT трансформерлері және көпмодельді LLM API интеграциясы.  
   → *Жобалар:* [PhishGuard](#-phishguard), [ЗаңКеңес AI](#-қазақстанға-арналған-цифрлық-өнімдер)
-* 🌐 **Web және Құпиялылық (Privacy-First Web):** Деректерді серверге жібермей, 100% браузер ішінде өңдейтін және жергілікті аудиторияға арналған өнімдер.  
+* 🌐 **Web және Құпиялылық (Privacy-First Web):** Деректерді сыртқы серверге жібермей, браузер ішінде жергілікті өңдейтін және жергілікті аудиторияға арналған өнімдер.  
   → *Жобалар:* [Bank Statement Analyzer](#-bank-statement-analyzer), [DentFlow KZ](#-dentflow-kz)
 
 ---
@@ -158,7 +158,7 @@ Windows жүйесінде SMB желілік ортақ бумаларын ба
 
 <a id="-bank-statement-analyzer"></a>
 ### 📊 [Bank Statement Analyzer](https://github.com/Azamaperdeev05/bank-analizer)
-Қазақстан банктерінің PDF үзінді көшірмелерін тікелей браузер жадында, 100% құпиялы түрде талдайтын қаржылық веб-құрал.
+Қазақстан банктерінің PDF үзінді көшірмелерін талдауға арналған құрал. Файлдар мен қаржылық деректерді сыртқы серверге жібермей, браузер ішінде жергілікті өңдейді.
 
 **Стек:** JavaScript (ES6+) • PDF.js • Canvas 2D • CSS3 • Vercel
 
